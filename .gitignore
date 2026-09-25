@@ -1,0 +1,9 @@
+data/
+dataV*/
+results/
+*.csv
+**settings.py
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
