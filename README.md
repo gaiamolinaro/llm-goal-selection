@@ -127,3 +127,13 @@ If you use this code, please cite the paper it accompanies:
 > Molinaro, G., August, D., Perszyk, D., & Collins, A. G. E. (2026). Language
 > Model Goal Selection Differs from Humans' in a Self-Directed Learning Task.
 > Advances in Neural Information Processing Systems, 39.
+
+```bibtex
+@inproceedings{molinaro2026goalselection,
+  title     = {Language Model Goal Selection Differs from Humans' in a Self-Directed Learning Task},
+  author    = {Molinaro, Gaia and August, Dave and Perszyk, Danielle and Collins, Anne G. E.},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {39},
+  year      = {2026}
+}
+```
